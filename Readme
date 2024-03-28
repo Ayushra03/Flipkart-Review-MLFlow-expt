@@ -1,1 +1,9 @@
 MLFlow+ML
+
+To run MlFlow 
+on cmd pip install mlflow
+mlflow ui
+
+then open the mlflow folder in Jupyter notebook 
+perform all experimentation just include mlflow
+At last automate and your all model will be loaded in mlflow
